@@ -1,6 +1,6 @@
 # Ticket Priority Classification
 
-### This project uses Convolutional Neural Networks (CNN) and Multi-Layer Perceptron (MLP) models to classify text data into different categories. It is built using PyTorch and includes custom training and evaluation functions.
+### This project uses Convolutional Neural Networks (CNN) and Multi-Layer Perceptron (MLP) models to classify ticket descriptions and assign them a priority level. It is built using PyTorch and includes custom training and evaluation functions.
 
 ### Features
 
